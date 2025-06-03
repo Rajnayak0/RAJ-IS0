@@ -1,13 +1,5 @@
 # 🛰️ RAJ-IS0: Network Vulnerability Discovery Project
-  _____                _            _____  _____  ___  
- |  __ \     /\       | |          |_   _|/ ____|/ _ \ 
- | |__| |   /  \      | |  ______    | | | (___ | | | |
- |  _  /   / /\ \ _   | | |______|   | |  \___ \| | | |
- | | \ \  / ____ \ |__| |           _| |_ ____) | |_| |
- |_|  \_\/_/    \_\____/           |_____|_____/ \___/ 
-                                                       
-                                                       
-
+                                                      
 ## 📡 Overview
 
 **RAJ-IS0** is a Bash script designed to assist in basic **network vulnerability discovery** by automating common network scanning tasks using **nmap** and **netdiscover**. It allows users to:
